@@ -1,1 +1,3 @@
 # NeuralNetworkPublic
+
+This repository contains all code for this neural network project in the form of Jupyter notebooks written in python written up to 7/26/24. The same juypter notebook includes all of my current work for data analysis and early stages of neural network building using tensorflow. The data used in the notebook was directly pulled from SciGlass, but is written to where most datasheets in an excel format should be able to work, besides dropping columns if the dataset you use doesn't contain those columns. This code still is a work in progress but should be able to easily expanded upon to more glasses than just alkali silicates, which we started with as a baseline.
